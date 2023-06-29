@@ -10,7 +10,7 @@ O processo seletivo prevê a contratação de 1 profissional para atuação em p
 
 O teste consiste em 3 partes:
 - Arquitetura: Configuração de servidor FHIR
-- Integração de Dados: Carga de dados para o _Resource Patient_
+- Integração de Dados: Carga de dados para o _Resource Patient_ e outros que se fizerem necessários
 - Apresentação Técnica: Reunião online para apresentação da solução desenvolvida
 
 Todos os artefatos e entregáveis produzidos deverão ser organizados em um repositório público no Github vinculado a sua conta pessoal.
@@ -25,8 +25,8 @@ O entregável dessa parte é uma pequena documentação explicando o processo de
 - Arquivo de configuração do servidor FHIR
 - Arquivos PDF ou Markdown com o passo a passo realizado
 
-### Parte 2 - Carga de dados para o _Resource Patient_ (Integração de Dados)
-Após a configuração do servidor, agora você deve realizar a carga dos dados disponíveis em [data/patients.csv](data/patients.csv) para o _Resource Patient_ do servidor FHIR.
+### Parte 2 - Carga de dados para o _Resource Patient_ e outros que se fizerem necessários (Integração de Dados)
+Após a configuração do servidor, agora você deve realizar a carga dos dados disponíveis em [data/patients.csv](data/patients.csv) para o _Resource Patient_ do servidor FHIR. Observe que há uma coluna chamada "observação" que contém informações adicionais sobre o estado de saúde do paciente, essas informações (quando existir) devem ser carregadas para o _Resource_ adequado.
 
 Para isso, você pode usar qualquer ferramenta de sua preferência, como por exemplo:
 - Mirth Connect
