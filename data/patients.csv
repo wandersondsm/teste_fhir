@@ -1,11 +1,11 @@
-Nome,CPF,GÃªnero,Data de Nascimento,Telefone,PaÃ­s de Nascimento,ObservaÃ§Ã£o
-JoÃ£o da Silva,123.456.789-00,Masculino,10/05/1980,(11) 1234-5678,Brasil,
+Nome,CPF,Gênero,Data de Nascimento,Telefone,País de Nascimento,Observação
+João da Silva,123.456.789-00,Masculino,10/05/1980,(11) 1234-5678,Brasil,
 Maria Souza,987.654.321-01,Feminino,15/08/1992,(21) 9876-5432,Brasil,Gestante
 Pedro Oliveira,456.789.123-02,Masculino,03/12/1975,(31) 4567-8901,Brasil,
-Ana Santos,789.123.456-03,Feminino,20/06/1988,(41) 7890-1234,Brasil,Gestante, DiabÃ©tico
+Ana Santos,789.123.456-03,Feminino,20/06/1988,(41) 7890-1234,Brasil,Gestante|Diabético
 Carlos Costa,234.567.890-04,Masculino,25/09/1995,(51) 2345-6789,Brasil,
 Laura Almeida,678.901.234-05,Feminino,08/02/1983,(61) 6789-0123,Brasil,
-Rafael Ferreira,901.234.567-06,Masculino,12/11/1990,(71) 9012-3456,Brasil,DiabÃ©tico
+Rafael Ferreira,901.234.567-06,Masculino,12/11/1990,(71) 9012-3456,Brasil,Diabético
 Camila Gomes,345.678.901-07,Feminino,17/04/1998,(81) 3456-7890,Brasil,
 Tiago Martins,789.012.345-08,Masculino,30/07/1986,(91) 7890-1234,Brasil,
 Isabela Lima,012.345.678-09,Feminino,05/03/1994,(12) 0123-4567,Brasil,Hipertenso
@@ -16,21 +16,21 @@ Mariana Santos,678.901.234-13,Feminino,27/12/1993,(52) 6789-0123,Brasil,Gestante
 Bruno Oliveira,901.234.567-14,Masculino,09/08/1981,(62) 9012-3456,Brasil,
 Juliana Almeida,345.678.901-15,Feminino,23/01/1999,(72) 3456-7890,Brasil,
 Ricardo Ferreira,789.012.345-16,Masculino,06/05/1987,(82) 7890-1234,Brasil,
-Carolina Gomes,012.345.678-17,Feminino,21/10/1995,(92) 0123-4567,Brasil,DiabÃ©tico, Hipertenso
+Carolina Gomes,012.345.678-17,Feminino,21/10/1995,(92) 0123-4567,Brasil,Diabético|Hipertenso
 Gabriel Martins,456.789.012-18,Masculino,04/04/1989,(13) 4567-8901,Brasil,
 Vanessa Lima,890.123.456-19,Feminino,18/07/1997,(33) 8901-2345,Brasil,
-AndrÃ© Pereira,234.567.890-20,Masculino,02/12/1985,(43) 2345-6789,Brasil,
+André Pereira,234.567.890-20,Masculino,02/12/1985,(43) 2345-6789,Brasil,
 Luiza Costa,678.901.234-21,Feminino,15/03/1993,(53) 6789-0123,Brasil,
-Diego Santos,901.234.567-22,Masculino,28/09/1980,(63) 9012-3456,Brasil,DiabÃ©tico, Hipertenso
+Diego Santos,901.234.567-22,Masculino,28/09/1980,(63) 9012-3456,Brasil,Diabético|Hipertenso
 Ana Clara Almeida,345.678.901-23,Feminino,11/02/1998,(73) 3456-7890,Brasil,
 Marcos Ferreira,789.012.345-24,Masculino,25/06/1986,(83) 7890-1234,Brasil,
 Larissa Gomes,012.345.678-25,Feminino,08/10/1994,(93) 0123-4567,Brasil,
-Vinicius Martins,456.789.012-26,Masculino,22/04/1982,(14) 4567-8901,Brasil,DiabÃ©tico
+Vinicius Martins,456.789.012-26,Masculino,22/04/1982,(14) 4567-8901,Brasil,Diabético
 Amanda Lima,890.123.456-27,Feminino,05/09/1990,(34) 8901-2345,Brasil,
 Rafaela Pereira,234.567.890-28,Feminino,18/01/1999,(44) 2345-6789,Brasil,
 Gustavo Oliveira,678.901.234-29,Masculino,01/07/1987,(54) 6789-0123,Brasil,
 Sofia Costa,901.234.567-30,Feminino,14/11/1995,(64) 9012-3456,Brasil,
-Leonardo Santos,345.678.901-31,Masculino,27/03/1983,(74) 3456-7890,Brasil,DiabÃ©tico, Hipertenso
+Leonardo Santos,345.678.901-31,Masculino,27/03/1983,(74) 3456-7890,Brasil,Diabético|Hipertenso
 Beatriz Almeida,789.012.345-32,Feminino,09/08/1991,(84) 7890-1234,Brasil,
 Matheus Ferreira,012.345.678-33,Masculino,23/12/1989,(94) 0123-4567,Brasil,
 Eduarda Gomes,456.789.012-34,Feminino,05/05/1997,(15) 4567-8901,Brasil,
@@ -46,6 +46,6 @@ Vitor Oliveira,890.123.456-43,Masculino,03/12/1980,(36) 8901-2345,Brasil,
 Isabella Lima,234.567.890-44,Feminino,16/05/1988,(46) 2345-6789,Brasil,
 Gustavo Martins,678.901.234-45,Masculino,29/09/1996,(56) 6789-0123,Brasil,
 Mariana Costa,901.234.567-46,Feminino,12/02/1985,(66) 9012-3456,Brasil,
-JoÃ£o Santos,345.678.901-47,Masculino,25/06/1993,(76) 3456-7890,Brasil,
+João Santos,345.678.901-47,Masculino,25/06/1993,(76) 3456-7890,Brasil,
 Camila Almeida,789.012.345-48,Feminino,08/10/1981,(86) 7890-1234,Brasil,
 Pedro Oliveira,012.345.678-49,Masculino,21/01/1990,(96) 0123-4567,Brasil,
